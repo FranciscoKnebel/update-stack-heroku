@@ -12,6 +12,7 @@ CLI to update your Heroku apps stacks from "cedar-14" (deprecated May 2018 and a
 
 - Get list of apps that need to be updated:
 > heroku plugins:install apps-table
+
 > heroku apps:table --filter="STACK=cedar-14"
 
 - Parse list of apps into a comma separated list
