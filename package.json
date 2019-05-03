@@ -1,0 +1,23 @@
+{
+  "name": "update-stack-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoKnebel/update-stack-heroku.git"
+  },
+  "author": "Francisco Knebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranciscoKnebel/update-stack-heroku/issues"
+  },
+  "homepage": "https://github.com/FranciscoKnebel/update-stack-heroku#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
